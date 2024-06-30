@@ -28,25 +28,16 @@ This project is a web application designed for Thomas Jefferson Elementary Schoo
 - **Classes**: Student enrollments and teacher assignments.
 - **School Events**: Event details for the school calendar.
 
-## GitHub Workflow
-- Use feature-based branching to organize the repository.
-- Push work to GitHub regularly.
-- Use Pull Requests to merge features into the main branch.
-
-## Reminders
-- Prioritize tasks based on the time left.
-- Aim for a polished and functional app over a feature-rich but unstable app.
-- Take breaks to stay fresh and focused.
-
-## Stretch Goals
-- **Firebase Authentication**: Restrict editing capabilities to administrators only.
-- **Teacher Login**: Allow teachers to log in and view the dashboard, add grades, but not edit class enrollment or school events.
-
-## Project Presentation
-- **Time Limit**: 10 minutes max, with a 1-minute warning at 9 minutes.
-- **Content**: Background, features, challenges, takeaways, future steps, demo, and Q&A.
-
 ## Installation and Setup
+
+### Prerequisites
+Before setting up the project, ensure you have the following installed:
+
+- **Node.js**: A JavaScript runtime environment.
+- **npm**: Node package manager (comes with Node.js).
+- **Firebase CLI** : Command-line tools for Firebase.
+
+### Instructions
 
 1. **Clone the repository**:
     ```bash
